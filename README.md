@@ -2,6 +2,7 @@
 
 This project is a responsive carousel component that can be easily integrated into any website or web application. It allows users to cycle through a set of images or content in a visually appealing and user-friendly manner.
 
+## Deploy: 
 ## Features
 
 - Responsive design: The carousel adapts to different screen sizes and devices, providing an optimal viewing experience for users.
