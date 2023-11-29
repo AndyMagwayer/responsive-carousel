@@ -1,4 +1,4 @@
-# Responsive Carousel
+# Responsive Carousel 2
 
 This project is a responsive carousel component that can be easily integrated into any website or web application. It allows users to cycle through a set of images or content in a visually appealing and user-friendly manner.
 ![Screen](https://github.com/AndyMagwayer/responsive-carousel/blob/main/Screenshot%202023-11-28%20213208.png)
