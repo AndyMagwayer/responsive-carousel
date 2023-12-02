@@ -6,6 +6,7 @@ This project is a responsive carousel component that can be easily integrated in
 ## Deploy: https://responsive-carousel-ak.netlify.app/
 ## Features
 
+
 - Responsive design: The carousel adapts to different screen sizes and devices, providing an optimal viewing experience for users.
 - Touch and swipe support: Users can navigate through the carousel using touch gestures on mobile devices.
 - Keyboard navigation: Users can also navigate through the carousel using keyboard arrow keys.
